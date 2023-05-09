@@ -1,5 +1,5 @@
 //write a program which is use to perform addition of two numbers
-// Changed by Aniket
+// Changed by Aniket.
 //ha static code ahea
 #include<stdio.h>
 
